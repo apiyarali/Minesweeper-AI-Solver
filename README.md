@@ -1,7 +1,5 @@
 # Minesweeper AI Solver
 
-![Minesweeper AI Game](https://github.com/apiyarali/Minesweeper-AI-Solver/blob/111318f8fcae79205fc2748444014148e3834e94/assets/images/minesweeper_card.png)
-
 <img src="https://github.com/apiyarali/Minesweeper-AI-Solver/blob/111318f8fcae79205fc2748444014148e3834e94/assets/images/minesweeper_card.png" alt="Minesweeper AI Game" width="400">
 
 ## Overview
