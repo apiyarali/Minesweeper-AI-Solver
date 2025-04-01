@@ -59,5 +59,5 @@ Maintains the AI's knowledge and determines optimal moves:
 - The game board size and mine count can be adjusted in `runner.py`.
 
 ## Credits
-Inspired by CS80’s AI course and the logical deduction techniques used in classic Minesweeper AI implementations.
+Inspired by Harvard's CS80 AI course and the logical deduction techniques used in classic Minesweeper AI implementations.
 
