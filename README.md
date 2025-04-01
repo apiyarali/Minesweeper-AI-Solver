@@ -1,6 +1,6 @@
 # Minesweeper AI Solver
 
-<img src="https://github.com/apiyarali/Minesweeper-AI-Solver/blob/111318f8fcae79205fc2748444014148e3834e94/assets/images/minesweeper_card.png" alt="Minesweeper AI Game" width="400">
+<img src="https://github.com/apiyarali/Minesweeper-AI-Solver/blob/111318f8fcae79205fc2748444014148e3834e94/assets/images/minesweeper_card.png" alt="Minesweeper AI Game" width="300">
 
 ## Overview
 This project implements an AI solver for the classic Minesweeper game using propositional logic and inference techniques. The AI plays the game by making logical deductions about which cells contain mines and which are safe based on the numbers revealed in adjacent cells. By maintaining a knowledge base of logical sentences, the AI can iteratively refine its understanding of the board to make informed moves.
